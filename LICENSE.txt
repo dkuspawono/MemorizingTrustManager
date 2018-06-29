@@ -1,6 +1,6 @@
-The MIT license.
-
-Copyright (c) 2010 Georg Lukas <georg@op-co.de>
+Lisensi MIT.
+hak cipta© 2018 dkuspawono@gmail.com
+Hak Cipta (c) 2010 Georg Lukas <georg@op-co.de>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
