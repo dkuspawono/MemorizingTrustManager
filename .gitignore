@@ -10,4 +10,5 @@ tags
 .gradle
 .*.swp
 /.settings
-/MemorizingTrustManager.iml
+/MemoriTrustManager.iml
+/.diff
